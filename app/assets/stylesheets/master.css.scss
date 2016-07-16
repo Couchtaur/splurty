@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -47,4 +48,12 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
 }
