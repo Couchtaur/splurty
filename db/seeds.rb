@@ -33,7 +33,7 @@ Quote.create(saying: "Prepare the water cooler, that we may gather around it lat
 Quote.create(saying: "A skunk knocked over my garbage, and suddenly all I could think of was you.", author: 'Morgan Proctor')
 Quote.create(saying: "It's the Apocalypse, all right. I always knew I'd have a hand in it.", author: 'Professor Farnsworth')
 Quote.create(saying: "And if you kill anyone, make sure to eat their heart to gain their courage -- their rich, tasty courage.", author: 'Professor Farnsworth')
-Quote.create(saying: "I'd like to put the little bastard in a sack and toss the sack in a river and hurl the river into space", author: 'Hermes')
+Quote.create(saying: "I'd like to put the little bastard in a sack and toss the sack in a river and hurl the river into space.", author: 'Hermes')
 Quote.create(saying: "That's a calculator. I ate it to gain its power.", author: 'Hermes')
 Quote.create(saying: "We're all scared -- it's the human condition. Why do youse thinks I put on this tough-guy façade?", author: 'Sal')
 Quote.create(saying: "Hell hath no fury like the vast robot armies of a woman scorned.", author: 'Walt')
